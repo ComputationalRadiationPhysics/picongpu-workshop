@@ -49,11 +49,21 @@ The workshop schedule, the lectures, and exercises can be found below. If you ha
 
 ### Friday
 
+
 *individual exercises** 
+
+
+## Where is the workshop on the HZDR campus?
+
+The workshop will be held in the library (building 104 on [this plan](https://www.hzdr.de/db/Cms?pOid=27940)) in room 215.
+
+
 
 ## How to get from Dresden city center to HZDR
 
-There exist only two bus lines that drive from Dresden to HZDR in the morning: Bus 261 and Bus 229.
+This [HZDR webpage](https://www.hzdr.de/db/Cms?pOid=10261&pNid=281) describes how to reach the HZDR.
+
+For those staing in Dresden: there exist only two bus lines that drive from Dresden to HZDR in the morning: Bus 261 and Bus 229.
 The interactive schedule can be found on the [VVO webpage](https://www.vvo-online.de/en/index.cshtml).
 Be aware that there a school holiday in Saxony during the workshop, thus not all departure times will be available.
 
