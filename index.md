@@ -38,7 +38,7 @@ The bus drives once an hour. Depending on where you enter, the departure times d
 | Am Steinkreuz (Weißig) | 07:39, 08:07, 08:35, 08:39, 09:42 |
 | Am Weißiger Bach (Weißig) | 07:41, 08:08, 08:36, 08:41, 09:43 |
 | Bautzner Landstraße (Weißig) | 07:44, 08:11, 08:39, 08:44, 09:46 |
-| Schenkhübel (Rossendorf) | 07:45, 08:13, 08:41, 08:45, 09:48 |
+| Schänkhübel (Rossendorf) | 07:45, 08:13, 08:41, 08:45, 09:48 |
 | Siedlung Rossendorf B6 (Rossendorf) | 07:46, 08:15, 08:43, 08:46, 09:50 |
 | Forschungszentrum (Rossendorf) | 07:47, 08:16, 08:44, 08:47, 09:51 |
 
