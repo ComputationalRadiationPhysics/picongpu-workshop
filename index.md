@@ -1,19 +1,55 @@
 # Welcome the PIConGPU workshop webpage
 
 The next PIConGPU user workshop will be held at [HZDR](https://www.hzdr.de) from 18th till 22nd of February 2019.  
-The workshop schedule, the lectures, and exercises can be found below. If you have any questions please contact [Marco Garten](mailto:m.garten@hzdr.de).
+The workshop schedule, the lectures, and exercises can be found below. If you have any questions, please contact [Marco Garten](mailto:m.garten@hzdr.de).
 
 ## Schedule overview
 
+![schedule](/img/schedule.png)
+
+**lecture**  *exercise*
+
 ### Monday 
+
+**Particle-in-cell Theory and Methods**
+
+**Working as a community: mail lists, Issues, help**
+
+*terminal, picongpu.profile, first simulation*
 
 ### Tuesday
 
+**PIConGPU: manual and input files**
+
+*configure parameter and configuration files and understanding errors*
+
+**Python postprocessing**
+
+*openPMD, python reader, matplotlib, plugins*
+
 ### Wednesday
+
+**Parameter scans with jupyter GUI**
+
+*cmake flags, workflows, widgets, param.py*
+
+**PIConGPU: particle species**
+
+*attributes and flags, filter, multi-plugins*
 
 ### Thursday
 
+**PIConGPU: Laser-ion simulation and doping**
+
+*manipulator, complex targets, ionization*
+
+**PIConGPU: in situ processing**
+
+*radiation, probes, and tracer*
+
 ### Friday
+
+*individual exercises** 
 
 ## How to get from Dresden city center to HZDR
 
