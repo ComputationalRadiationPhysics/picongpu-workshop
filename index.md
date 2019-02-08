@@ -50,7 +50,7 @@ The workshop schedule, the lectures, and exercises can be found below. If you ha
 ### Friday
 
 
-*individual exercises** 
+*individual exercises* 
 
 
 ## Where is the workshop on the HZDR campus?
@@ -63,7 +63,7 @@ The workshop will be held in the library (building 104 on [this plan](https://ww
 
 This [HZDR webpage](https://www.hzdr.de/db/Cms?pOid=10261&pNid=281) describes how to reach the HZDR.
 
-For those staing in Dresden: there exist only two bus lines that drive from Dresden to HZDR in the morning: Bus 261 and Bus 229.
+For those staying in Dresden: there exist only two bus lines that drive from Dresden to HZDR in the morning: Bus 261 and Bus 229.
 The interactive schedule can be found on the [VVO webpage](https://www.vvo-online.de/en/index.cshtml).
 Be aware that there a school holiday in Saxony during the workshop, thus not all departure times will be available.
 
@@ -75,7 +75,7 @@ The bus drives once an hour. Depending on where you enter, the departure times d
 | [Hauptbahnhof](https://www.google.com/maps/place/Dresden+Hauptbahnhof/@51.0392879,13.7328118,17z/data=!4m13!1m7!3m6!1s0x4709cf3fe162dc7f:0x60e5b61002af9539!2sAlbertpl.,+Dresden!3b1!8m2!3d51.0634362!4d13.7459975!3m4!1s0x4709c58ad36f6dbf:0x645c7d686f635c34!8m2!3d51.0399296!4d13.7341902) (main station) | 07:10, 07:40, 08:08, 08:10, 09:15 |
 | [Walpurgisstraße](https://www.google.com/maps/place/Dresden+Walpurgisstra%C3%9Fe/@51.042816,13.7351828,17z/data=!4m13!1m7!3m6!1s0x4709cf3fe162dc7f:0x60e5b61002af9539!2sAlbertpl.,+Dresden!3b1!8m2!3d51.0634362!4d13.7459975!3m4!1s0x4709cf5fc77b1e17:0xcc86940dc037e9a8!8m2!3d51.04355!4d13.7379762) | 07:12, 07:42, -, 08:12, 09:17 |
 | [Pirnaischer Platz](https://www.google.com/maps/place/Dresden+Pirnaischer+Platz/@51.0498781,13.7443989,17z/data=!4m13!1m7!3m6!1s0x4709cf3fe162dc7f:0x60e5b61002af9539!2sAlbertpl.,+Dresden!3b1!8m2!3d51.0634362!4d13.7459975!3m4!1s0x4709cf5c9ae4960b:0xe627eedc87a90c66!8m2!3d51.0495721!4d13.7458887) | 07:15, 07:45, -, 08:15, 09:20 |
-| [Albertplatz[(https://www.google.com/maps/place/Dresden+Albertplatz/@51.0620977,13.7440019,17z/data=!4m13!1m7!3m6!1s0x4709cf3fe162dc7f:0x60e5b61002af9539!2sAlbertpl.,+Dresden!3b1!8m2!3d51.0634362!4d13.7459975!3m4!1s0x4709cf4005648b39:0x8410ca27beec92a2!8m2!3d51.061517!4d13.7460389) | 07:20, 07:50, 08:18, 08:20, 09:25 | 
+| [Albertplatz](https://www.google.com/maps/place/Dresden+Albertplatz/@51.0620977,13.7440019,17z/data=!4m13!1m7!3m6!1s0x4709cf3fe162dc7f:0x60e5b61002af9539!2sAlbertpl.,+Dresden!3b1!8m2!3d51.0634362!4d13.7459975!3m4!1s0x4709cf4005648b39:0x8410ca27beec92a2!8m2!3d51.061517!4d13.7460389) | 07:20, 07:50, 08:18, 08:20, 09:25 | 
 | [Waldschlößchen](https://www.google.com/maps/place/Dresden+Waldschl%C3%B6%C3%9Fchen/@51.066807,13.7749444,17z/data=!4m13!1m7!3m6!1s0x4709cf3fe162dc7f:0x60e5b61002af9539!2sAlbertpl.,+Dresden!3b1!8m2!3d51.0634362!4d13.7459975!3m4!1s0x4709cf32cb52353d:0x9f40bed383eaa72b!8m2!3d51.0673767!4d13.777748) | 07:24, 07:55, 08:23, 08:24, 09:30 |
 | [Angelikastraße](https://www.google.com/maps/place/Dresden+Angelikastra%C3%9Fe/@51.0669014,13.7818324,17z/data=!4m13!1m7!3m6!1s0x4709cf3fe162dc7f:0x60e5b61002af9539!2sAlbertpl.,+Dresden!3b1!8m2!3d51.0634362!4d13.7459975!3m4!1s0x4709c8cde1a6d137:0xc338090b93507f0b!8m2!3d51.0669528!4d13.7850369) | 07:25, 07:56, 08:24, 08:25, 09:31 |
 | [Plattleite](https://www.google.com/maps/place/Dresden+Plattleite/@51.0634746,13.820483,18z/data=!4m13!1m7!3m6!1s0x4709cf3fe162dc7f:0x60e5b61002af9539!2sAlbertpl.,+Dresden!3b1!8m2!3d51.0634362!4d13.7459975!3m4!1s0x4709c8faa778b9bb:0x43c0ba88c617c0c7!8m2!3d51.0636199!4d13.8220011) | 07:31, 08:01, 08:29, 08:31, 09:36 |
@@ -91,5 +91,3 @@ The bus drives once an hour. Depending on where you enter, the departure times d
 ### Bus 229
 
 Due to the holidays, there is only one bus in the morning going to HZDR. It starts at 06:40 from [Bühlau Ullersdorfer Platz](https://www.google.com/maps/place/Dresden+B%C3%BChlau+Ullersdorfer+Platz/@51.0618901,13.8527607,18z/data=!4m13!1m7!3m6!1s0x4709cf3fe162dc7f:0x60e5b61002af9539!2sAlbertpl.,+Dresden!3b1!8m2!3d51.0634362!4d13.7459975!3m4!1s0x4709c84faa0475f9:0xe0e2a9f9a3382365!8m2!3d51.062083!4d13.8533581) and arrives at 06:52 at [Forschungszentrum (Rossendorf)](https://www.google.com/maps/place/Rossendorf+Forschungszentrum/@51.0637713,13.9475607,18z/data=!4m13!1m7!3m6!1s0x4709cf3fe162dc7f:0x60e5b61002af9539!2sAlbertpl.,+Dresden!3b1!8m2!3d51.0634362!4d13.7459975!3m4!1s0x4709b65403ea3235:0x4d59d84f334c6588!8m2!3d51.0639663!4d13.948718).
-
-
