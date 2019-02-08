@@ -91,3 +91,6 @@ The bus drives once an hour. Depending on where you enter, the departure times d
 ### Bus 229
 
 Due to the holidays, there is only one bus in the morning going to HZDR. It starts at 06:40 from [Bühlau Ullersdorfer Platz](https://www.google.com/maps/place/Dresden+B%C3%BChlau+Ullersdorfer+Platz/@51.0618901,13.8527607,18z/data=!4m13!1m7!3m6!1s0x4709cf3fe162dc7f:0x60e5b61002af9539!2sAlbertpl.,+Dresden!3b1!8m2!3d51.0634362!4d13.7459975!3m4!1s0x4709c84faa0475f9:0xe0e2a9f9a3382365!8m2!3d51.062083!4d13.8533581) and arrives at 06:52 at [Forschungszentrum (Rossendorf)](https://www.google.com/maps/place/Rossendorf+Forschungszentrum/@51.0637713,13.9475607,18z/data=!4m13!1m7!3m6!1s0x4709cf3fe162dc7f:0x60e5b61002af9539!2sAlbertpl.,+Dresden!3b1!8m2!3d51.0634362!4d13.7459975!3m4!1s0x4709b65403ea3235:0x4d59d84f334c6588!8m2!3d51.0639663!4d13.948718).
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fcomputationalradiationphysics.github.io%2Fpicongpu-workshop%2F)
+
