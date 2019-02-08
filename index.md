@@ -26,20 +26,20 @@ The bus drives once an hour. Depending on where you enter, the departure times d
 
 | Stop | Departure |
 |------|-----------|
-| Hauptbahnhof (main station) | 07:10, 07:40 |
-| Walpurgisstraße | 07:12, 07:42 |
-| Pirnaischer Platz | 07:15, 07:45 |
-| Albertplatz | 07:20, 7:50 | 
-| Waldschlößchen | 07:24, 7:55 |
-| Angelikastraße | 07:25, 7:56 |
-| Plattleite | 07:31, 08:01 |
-| Schwimmhalle Bühlau | 07:34, 08:03 |
-| Bühlau Ullersdorfer Platz | 07:37, 08:05 |
-| Am Steinkreuz (Weißig) | 07:39, 08:07 |
-| Am Weißiger Bach (Weißig) | 07:41, 08:08 |
-| Bautzner Landstraße (Weißig) | 07:44, 08:11 |
-| Schenkhübel (Rossendorf) | 07:45, 08:13 |
-| Siedlung Rossendorf B6 (Rossendorf) | 07:46, 08:15 |
-| Forschungszentrum (Rossendorf) | 07:47, 08:16 |
+| Hauptbahnhof (main station) | 07:10, 07:40, 08:08, 08:10, 09:15 |
+| Walpurgisstraße | 07:12, 07:42, -, 08:12, 09:17 |
+| Pirnaischer Platz | 07:15, 07:45, -, 08:15, 09:20 |
+| Albertplatz | 07:20, 07:50, 08:18, 08:20, 09:25 | 
+| Waldschlößchen | 07:24, 07:55, 08:23, 08:24, 09:30 |
+| Angelikastraße | 07:25, 07:56, 08:24, 08:25, 09:31 |
+| Plattleite | 07:31, 08:01, 08:29, 08:31, 09:36 |
+| Schwimmhalle Bühlau | 07:34, 08:03, 08:31, 08:34, 09:38 |
+| Bühlau Ullersdorfer Platz | 07:37, 08:05, 08:33, 08:37, 09:40 |
+| Am Steinkreuz (Weißig) | 07:39, 08:07, 08:35, 08:39, 09:42 |
+| Am Weißiger Bach (Weißig) | 07:41, 08:08, 08:36, 08:41, 09:43 |
+| Bautzner Landstraße (Weißig) | 07:44, 08:11, 08:39, 08:44, 09:46 |
+| Schenkhübel (Rossendorf) | 07:45, 08:13, 08:41, 08:45, 09:48 |
+| Siedlung Rossendorf B6 (Rossendorf) | 07:46, 08:15, 08:43, 08:46, 09:50 |
+| Forschungszentrum (Rossendorf) | 07:47, 08:16, 08:44, 08:47, 09:51 |
 
 
