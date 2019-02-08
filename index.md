@@ -1,37 +1,45 @@
-## Welcome the PIConGPU workshop webpage
+# Welcome the PIConGPU workshop webpage
 
-You can use the [editor on GitHub](https://github.com/ComputationalRadiationPhysics/PIConGPU_workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The next PIConGPU user workshop will be held at [HZDR](https://www.hzdr.de) from 18th till 22nd of February 2019.  
+The workshop schedule, the lectures, and exercises can be found below. If you have any questions please contact [Marco Garten](mailto:m.garten@hzdr.de).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Schedule overview
 
-### Markdown
+### Monday 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tuesday
 
-```markdown
-Syntax highlighted code block
+### Wednesday
 
-# Header 1
-## Header 2
-### Header 3
+### Thursday
 
-- Bulleted
-- List
+### Friday
 
-1. Numbered
-2. List
+## How to get from Dresden city center to HZDR
 
-**Bold** and _Italic_ and `Code` text
+There exist only two bus lines that drive from Dresden to HZDR in the morning: Bus 261 and Bus 229.
+The interactive schedule can be found on the [VVO webpage](https://www.vvo-online.de/en/index.cshtml).
+Be aware that there a school holiday in Saxony during the workshop, thus not all departure times will be available.
 
-[Link](url) and ![Image](src)
-```
+### Bus 261
+The bus drives once an hour. Depending on where you enter, the departure times differ:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+| Stop | Departure |
+|------|-----------|
+| Hauptbahnhof (main station) | 07:10 |
+| Walpurgisstraße | 07:12 |
+| Pirnaischer Platz | 07:15 |
+| Albertplatz | 07:20 | 
+| Waldschlößchen | 07:24 |
+| Angelikastraße | 07:25 |
+| Plattleite | 07:31 |
+| Schwimmhalle Bühlau | 07:34 |
+| Bühlau Ullersdorfer Platz | 07:37 |
+| Am Steinkreuz (Weißig) | 07:39 |
+| Am Weißiger Bach (Weißig) | 07:41 |
+| Bautzner Landstraße (Weißig) | 07:44 |
+| Schenkhübel (Rossendorf) | 07:45 |
+| Siedlung Rossendorf B6 (Rossendorf) | 07:46 |
+| Forschungszentrum (Rossendorf) | 07:47 |
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ComputationalRadiationPhysics/PIConGPU_workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
