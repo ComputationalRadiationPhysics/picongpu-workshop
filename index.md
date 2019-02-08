@@ -1,4 +1,4 @@
-# Welcome the PIConGPU workshop webpage
+# Welcome to the PIConGPU workshop webpage
 
 The next PIConGPU user workshop will be held at [HZDR](https://www.hzdr.de) from 18th till 22nd of February 2019.  
 The workshop schedule, the lectures, and exercises can be found below. If you have any questions, please contact [Marco Garten](mailto:m.garten@hzdr.de).
