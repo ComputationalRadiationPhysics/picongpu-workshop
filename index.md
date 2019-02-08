@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome the PIConGPU workshop webpage
 
 You can use the [editor on GitHub](https://github.com/ComputationalRadiationPhysics/PIConGPU_workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
