@@ -94,3 +94,4 @@ Due to the holidays, there is only one bus in the morning going to HZDR. It star
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fcomputationalradiationphysics.github.io%2Fpicongpu-workshop%2F)
 
+[Imprint](https://www.hzdr.de/db/Cms?pOid=10115&pNid=0)
